@@ -11,7 +11,7 @@ User_Selection = input("Please enter your choice: ")
 if User_Selection == "Rock":
     print('''   
             _______
-        ---'    ____)
+        ---'    ____) 
                (_____)
                (_____)
                 (____)
